@@ -1,0 +1,16 @@
+[
+{
+  "modid": "subcommandhandlerexamplemod",
+  "name": "SubCommandHandlerExample",
+  "description": "Example mod of sub command handler.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Regex"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

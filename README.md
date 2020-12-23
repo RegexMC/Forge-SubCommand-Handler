@@ -1,2 +1,5 @@
-# Forge SubCommand Handler
- A handler for sub commands on forge
+# Forge Sub Command Handler
+Why would you use this?????? 
+...I made this because I was bored.
+
+Anyway, basically this is an example mod for using the `me.regexmc.subcommandhandler.example.subcommandhandler.*` classes.

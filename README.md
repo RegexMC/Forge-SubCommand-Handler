@@ -44,9 +44,9 @@ public void processCommand(ICommandSender iCommandSender, String[] args) throws 
 ```
 
 ```java
-/***********************
+/********************************
  * ExampleSubCmdExampleOne.java *
- ***********************/
+ ********************************/
 public class ExampleSubCmdExampleOne implements SubCommand {
     @Override
     public void run(Object sender, String[] args, int index) throws InvocationTargetException, NoSuchMethodException, InstantiationException, IllegalAccessException {
